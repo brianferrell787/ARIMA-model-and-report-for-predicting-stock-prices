@@ -1,1 +1,1 @@
-# ARIMA-model-report-for-predicting-stock-prices
+# ARIMA-model and report-for-predicting-stock-prices
