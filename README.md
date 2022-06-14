@@ -4,7 +4,7 @@
 This project was from my Econometric Time Series class (Spring '22). It involves creating and evaluating ARIMA forecasts for the stock CDW. This project contains a lot of statistical analyses inlcuding Stationarity & Exogeneity tests, data transformations, autocorrelation, partial autocorrelation plots, unit root tests, Granger causality tests, Diebold Mariano test, and more. Enjoy! 
 
 Please refer to the appendix, main code file, and report (also seen below as JPG) for more information and insights to the project. 
-
+# Report
 ![Final Project ECON 6411024_1](https://user-images.githubusercontent.com/58923369/173664598-046b8894-c270-4d1c-91fb-160c30ded326.jpg)
 ![Final Project ECON 6411024_2](https://user-images.githubusercontent.com/58923369/173664602-03defd9c-fd41-40ae-997c-f92f2abbddf1.jpg)
 ![Final Project ECON 6411024_3](https://user-images.githubusercontent.com/58923369/173664603-83ffed44-1530-48f1-bbab-10d7d3a77bd4.jpg)
